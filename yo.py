@@ -40,4 +40,4 @@ async def on_message(message):
         print("Message deleted")
     
         
-client.run('Nzk2NzE2MDUxOTkxNjI1NzM4.X_b9pQ.tVRrAtWONA2Wi0VUeHJj1nfOWrY', client = True)
+client.run('token', client = True)
